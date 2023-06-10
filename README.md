@@ -1,2 +1,2 @@
-# react-webpack-starter
-bare bones react webpack starter repo
+# webpack-dev-starter
+Empty webpack starter repo
